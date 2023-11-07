@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="words">
+        <item>ANDROID</item>
+        <item>COMPUTADORA</item>
+        <item>SMARPHONE</item>
+        <item>CAFE</item>
+        <item>CODIGO</item>
+        <item>JAVA</item>
+        <item>ANDROIDSTUDIO</item>
+        <item>COMPUTADORA</item>
+        <item>OTORRINOLARINGOLOGIA</item>
+        <item>DIENTES</item>
+    </string-array>
+</resources>
